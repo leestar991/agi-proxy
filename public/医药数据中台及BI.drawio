@@ -162,7 +162,7 @@
           <mxGeometry x="587" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RV-wWZa_JN4536aJD9VN-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数据分类分级&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;针对线下数仓数据，进行分类分级管理，高保密级别数据，通过加密，脱敏等技术处理后上云。线下数仓，作为云分析引擎的备份，可以降配。&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="20" width="180" height="120" as="geometry" />
+          <mxGeometry x="30" y="51" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
