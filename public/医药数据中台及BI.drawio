@@ -158,6 +158,9 @@
             <mxPoint x="625" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RV-wWZa_JN4536aJD9VN-8" value="数据上云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
