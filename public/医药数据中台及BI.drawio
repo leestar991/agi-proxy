@@ -37,10 +37,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-9" value="分析引擎 Doris" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="568" y="226" width="110" height="60" as="geometry" />
+          <mxGeometry x="490" y="226" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-11" value="QBI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="381" y="226" width="120" height="60" as="geometry" />
+        <mxCell id="eCR380lotrIrXrgE_NF7-11" value="QBI&lt;div&gt;（SaaS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="226" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eCR380lotrIrXrgE_NF7-13" target="eCR380lotrIrXrgE_NF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +133,9 @@
           <mxGeometry x="544.655172413793" width="105.34482758620689" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-46" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="341" y="74" width="649" height="270" as="geometry" />
+          <mxGeometry x="341" y="74" width="649" height="270" as="geometry">
+            <mxRectangle x="341" y="74" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-47" value="阿里公有云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="896" y="44" width="94" height="30" as="geometry" />
