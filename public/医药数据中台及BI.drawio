@@ -93,6 +93,18 @@
             <mxRectangle y="29" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RV-wWZa_JN4536aJD9VN-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9;endSize=4.5;" edge="1" parent="eCR380lotrIrXrgE_NF7-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="31" as="sourcePoint" />
+            <mxPoint x="270" y="-29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RV-wWZa_JN4536aJD9VN-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8;endSize=4.73;" edge="1" parent="eCR380lotrIrXrgE_NF7-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="363" y="247" as="sourcePoint" />
+            <mxPoint x="363" y="-33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-41" value="医药IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="eCR380lotrIrXrgE_NF7-44" vertex="1">
           <mxGeometry x="544.655172413793" width="105.34482758620689" height="30" as="geometry" />
         </mxCell>
