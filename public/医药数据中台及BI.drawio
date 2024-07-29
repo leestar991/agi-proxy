@@ -36,7 +36,7 @@
         <mxCell id="eCR380lotrIrXrgE_NF7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eCR380lotrIrXrgE_NF7-9" target="eCR380lotrIrXrgE_NF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-9" value="分析引擎 Doris" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="eCR380lotrIrXrgE_NF7-9" value="分析引擎 Doris/GP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="226" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-11" value="QBI&lt;div&gt;（SaaS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -61,23 +61,11 @@
         <mxCell id="eCR380lotrIrXrgE_NF7-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="374" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eCR380lotrIrXrgE_NF7-23" target="eCR380lotrIrXrgE_NF7-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eCR380lotrIrXrgE_NF7-29" target="eCR380lotrIrXrgE_NF7-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-32" value="PowerBI&lt;div&gt;（SaaS）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="536" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-44" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="340" y="364" width="650" height="171" as="geometry" />
-        </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="eCR380lotrIrXrgE_NF7-44" source="eCR380lotrIrXrgE_NF7-17" target="eCR380lotrIrXrgE_NF7-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-17" value="线下数仓 CDH&lt;div&gt;（本地机房 医药）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="eCR380lotrIrXrgE_NF7-44" vertex="1">
-          <mxGeometry x="224.13793103448273" y="70" width="165.86206896551724" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="eCR380lotrIrXrgE_NF7-44" source="eCR380lotrIrXrgE_NF7-19" target="eCR380lotrIrXrgE_NF7-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,37 +73,25 @@
         <mxCell id="eCR380lotrIrXrgE_NF7-19" value="本地存储-医药" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="eCR380lotrIrXrgE_NF7-44" vertex="1">
           <mxGeometry x="454.99999999999994" y="60" width="156.8965517241379" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-23" value="分析引擎&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;ADB&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="eCR380lotrIrXrgE_NF7-44" vertex="1">
-          <mxGeometry x="23.534482758620687" y="70" width="134.48275862068965" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-40" value="" style="swimlane;startSize=0;" parent="eCR380lotrIrXrgE_NF7-44" vertex="1">
           <mxGeometry y="29" width="650" height="142" as="geometry">
             <mxRectangle y="29" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RV-wWZa_JN4536aJD9VN-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9;endSize=4.5;" edge="1" parent="eCR380lotrIrXrgE_NF7-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="31" as="sourcePoint" />
-            <mxPoint x="270" y="-33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RV-wWZa_JN4536aJD9VN-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8;endSize=4.73;" edge="1" parent="eCR380lotrIrXrgE_NF7-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="363" y="247" as="sourcePoint" />
-            <mxPoint x="363" y="-33" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="eCR380lotrIrXrgE_NF7-17" value="线下数仓 GP&lt;div&gt;（本地机房 医药）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="eCR380lotrIrXrgE_NF7-40" vertex="1">
+          <mxGeometry x="89.99793103448275" y="41" width="165.86206896551724" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-41" value="医药IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="eCR380lotrIrXrgE_NF7-44" vertex="1">
           <mxGeometry x="544.655172413793" width="105.34482758620689" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RV-wWZa_JN4536aJD9VN-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=9;endSize=4.5;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="eCR380lotrIrXrgE_NF7-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="66" as="sourcePoint" />
+            <mxPoint x="195" y="-72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-45" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="340" y="582" width="650" height="172" as="geometry" />
-        </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="eCR380lotrIrXrgE_NF7-45" source="eCR380lotrIrXrgE_NF7-18" target="eCR380lotrIrXrgE_NF7-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-18" value="线下数仓 CDH&lt;div&gt;（本地机房 汉霖）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="eCR380lotrIrXrgE_NF7-45" vertex="1">
-          <mxGeometry x="224.13793103448273" y="71" width="165.86206896551724" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="eCR380lotrIrXrgE_NF7-45" source="eCR380lotrIrXrgE_NF7-21" target="eCR380lotrIrXrgE_NF7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,11 +99,11 @@
         <mxCell id="eCR380lotrIrXrgE_NF7-21" value="本地存储-汉霖" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="eCR380lotrIrXrgE_NF7-45" vertex="1">
           <mxGeometry x="454.99999999999994" y="61" width="156.8965517241379" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eCR380lotrIrXrgE_NF7-29" value="分析引擎 ADB" style="rounded=1;whiteSpace=wrap;html=1;" parent="eCR380lotrIrXrgE_NF7-45" vertex="1">
-          <mxGeometry x="23.534482758620687" y="71" width="134.48275862068965" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-42" value="" style="swimlane;startSize=0;" parent="eCR380lotrIrXrgE_NF7-45" vertex="1">
           <mxGeometry y="30" width="650" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="eCR380lotrIrXrgE_NF7-18" value="线下数仓 GP&lt;div&gt;（本地机房 汉霖）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="eCR380lotrIrXrgE_NF7-42" vertex="1">
+          <mxGeometry x="171.13793103448273" y="41" width="165.86206896551724" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eCR380lotrIrXrgE_NF7-43" value="汉霖IDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="eCR380lotrIrXrgE_NF7-45" vertex="1">
           <mxGeometry x="544.655172413793" width="105.34482758620689" height="30" as="geometry" />
@@ -164,6 +140,22 @@
         <mxCell id="eCR380lotrIrXrgE_NF7-52" value="VLAN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="eCR380lotrIrXrgE_NF7-51" vertex="1" connectable="0">
           <mxGeometry x="-0.1654" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCR380lotrIrXrgE_NF7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eCR380lotrIrXrgE_NF7-17" target="eCR380lotrIrXrgE_NF7-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.01724137931024" y="464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eCR380lotrIrXrgE_NF7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eCR380lotrIrXrgE_NF7-18" target="eCR380lotrIrXrgE_NF7-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="498.01724137931024" y="683" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RV-wWZa_JN4536aJD9VN-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=8;endSize=4.73;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="647" as="sourcePoint" />
+            <mxPoint x="625" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
