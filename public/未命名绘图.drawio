@@ -4,10 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8HPa9tXyM2Minq3FRMIH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8HPa9tXyM2Minq3FRMIH-1" target="8HPa9tXyM2Minq3FRMIH-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8HPa9tXyM2Minq3FRMIH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8HPa9tXyM2Minq3FRMIH-1" target="8HPa9tXyM2Minq3FRMIH-2">
+        <mxCell id="8HPa9tXyM2Minq3FRMIH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8HPa9tXyM2Minq3FRMIH-1" target="8HPa9tXyM2Minq3FRMIH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8HPa9tXyM2Minq3FRMIH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8HPa9tXyM2Minq3FRMIH-1" target="8HPa9tXyM2Minq3FRMIH-5">
@@ -45,20 +42,20 @@
         <mxCell id="8HPa9tXyM2Minq3FRMIH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="8HPa9tXyM2Minq3FRMIH-13" target="8HPa9tXyM2Minq3FRMIH-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8HPa9tXyM2Minq3FRMIH-13" value="分析引擎 Doris/GP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8HPa9tXyM2Minq3FRMIH-13" value="分析引擎 ADB for PG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8HPa9tXyM2Minq3FRMIH-16" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;（集团公共 逻辑隔离）&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;（医药独立 逻辑隔离）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="130" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="8HPa9tXyM2Minq3FRMIH-17" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="420" height="350" as="geometry" />
+          <mxGeometry x="160" y="360" width="425" height="250" as="geometry" />
         </mxCell>
         <mxCell id="8HPa9tXyM2Minq3FRMIH-19" value="账号隔离&lt;div&gt;逻辑分库&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8HPa9tXyM2Minq3FRMIH-17">
-          <mxGeometry x="350" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8HPa9tXyM2Minq3FRMIH-16" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;（集团公共 逻辑隔离）&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;（医药独立 逻辑隔离）&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="8HPa9tXyM2Minq3FRMIH-17">
+          <mxGeometry x="295" y="210" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8HPa9tXyM2Minq3FRMIH-18" value="共享中间件-公有云" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="230" width="110" height="30" as="geometry" />
+          <mxGeometry x="470" y="330" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8HPa9tXyM2Minq3FRMIH-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8HPa9tXyM2Minq3FRMIH-21" target="8HPa9tXyM2Minq3FRMIH-24">
           <mxGeometry relative="1" as="geometry" />
@@ -88,6 +85,9 @@
         </mxCell>
         <mxCell id="8HPa9tXyM2Minq3FRMIH-29" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="217" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8HPa9tXyM2Minq3FRMIH-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;独立租户&lt;/h1&gt;&lt;p&gt;独立租户，权限和数据逻辑隔离，与SaaS平台策略相同。租户下可设置多项目，满足产业多数据域多项目管理需求，项目权限可独立设置&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="97" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
