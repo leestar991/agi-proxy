@@ -4,6 +4,60 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-16" value="Ali Cloud SH VPC-Fosun" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="60" width="412" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-4" value="Firewalls" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Firewalls.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16">
+          <mxGeometry x="10.14" y="32" width="33.13" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-3" value="WAF" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16">
+          <mxGeometry x="58" y="32" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-5" value="DDoS Protection" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DDoS_Protection_Plans.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16">
+          <mxGeometry x="124" y="33" width="23.06" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-6" value="API Gateway" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16">
+          <mxGeometry x="32" y="112" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-11" value="EMR on ECS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16">
+          <mxGeometry x="321" y="112" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16" source="G7WPRZ0ZZ3lJUyslAxaz-13" target="G7WPRZ0ZZ3lJUyslAxaz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-13" value="Dataphin Cluster" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16">
+          <mxGeometry x="168" y="114" width="66" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="G7WPRZ0ZZ3lJUyslAxaz-16" source="G7WPRZ0ZZ3lJUyslAxaz-6" target="G7WPRZ0ZZ3lJUyslAxaz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-18" value="Ali Cloud SH VPC-FosunPharma" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="350" width="412" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-19" value="Firewalls" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Firewalls.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18">
+          <mxGeometry x="10.14" y="32" width="33.13" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-20" value="WAF" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18">
+          <mxGeometry x="58" y="32" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-21" value="DDoS Protection" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DDoS_Protection_Plans.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18">
+          <mxGeometry x="124" y="33" width="23.06" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-22" value="API Gateway" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Application_Gateways.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18">
+          <mxGeometry x="32" y="112" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-23" value="EMR on ECS" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18">
+          <mxGeometry x="321" y="112" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18" source="G7WPRZ0ZZ3lJUyslAxaz-25" target="G7WPRZ0ZZ3lJUyslAxaz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-25" value="Dataphin Cluster" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Virtual_Clusters.svg;" vertex="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18">
+          <mxGeometry x="168" y="114" width="66" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="G7WPRZ0ZZ3lJUyslAxaz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="G7WPRZ0ZZ3lJUyslAxaz-18" source="G7WPRZ0ZZ3lJUyslAxaz-22" target="G7WPRZ0ZZ3lJUyslAxaz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
