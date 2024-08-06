@@ -175,7 +175,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oRuZYRjehLsqBAZlLS6s-3" value="ip set" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oRuZYRjehLsqBAZlLS6s-2">
+        <mxCell id="oRuZYRjehLsqBAZlLS6s-3" value="ip sec" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oRuZYRjehLsqBAZlLS6s-2">
           <mxGeometry x="0.1709" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
