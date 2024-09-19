@@ -29,7 +29,7 @@
           <mxGeometry x="700" y="210" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QQzgqRkcje8NJ6HFr3bM-9" value="AI 中台" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="170" width="600" height="310" as="geometry" />
+          <mxGeometry x="220" y="170" width="570" height="310" as="geometry" />
         </mxCell>
         <mxCell id="d5hBSOAIruPtOhFuwNYc-6" value="3rd&lt;div&gt;API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQzgqRkcje8NJ6HFr3bM-9">
           <mxGeometry x="480" y="220" width="60" height="60" as="geometry" />
