@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="第 1 页" id="bjOaTMv2JxaxycG0B3VL">
-    <mxGraphModel dx="1479" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,10 +26,13 @@
           <mxGeometry x="260" y="390" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQzgqRkcje8NJ6HFr3bM-8" value="AI&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ops&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="210" width="60" height="240" as="geometry" />
+          <mxGeometry x="700" y="210" width="60" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QQzgqRkcje8NJ6HFr3bM-9" value="AI 中台" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="170" width="570" height="310" as="geometry" />
+          <mxGeometry x="220" y="170" width="600" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="d5hBSOAIruPtOhFuwNYc-6" value="3rd&lt;div&gt;API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQzgqRkcje8NJ6HFr3bM-9">
+          <mxGeometry x="480" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQzgqRkcje8NJ6HFr3bM-10" value="智能客服" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="80" width="100" height="60" as="geometry" />
