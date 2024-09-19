@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="第 1 页" id="bjOaTMv2JxaxycG0B3VL">
+    <mxGraphModel dx="1479" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-1" value="知识管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-2" value="智能体创作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-3" value="知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-4" value="智能工作流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-5" value="辅助工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-6" value="知识图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-7" value="LLMs 集成平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-8" value="AI&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ops&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="210" width="60" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-9" value="AI 中台" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="570" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-10" value="智能客服" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-11" value="AI管家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-12" value="智能导览&lt;div&gt;（游玩攻略）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-14" value="智能营销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-15" value="智能培训" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQzgqRkcje8NJ6HFr3bM-17" value="AI应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
