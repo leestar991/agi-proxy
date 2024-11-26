@@ -30,15 +30,39 @@
         </mxCell>
         <mxCell id="Du_18PAJSAdSb2DS7K8T-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=7;endWidth=10;fillColor=#FFCCCC;strokeColor=#FF9933;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="721" as="sourcePoint" />
-            <mxPoint x="300" y="721" as="targetPoint" />
+            <mxPoint x="214" y="721" as="sourcePoint" />
+            <mxPoint x="294" y="721" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Du_18PAJSAdSb2DS7K8T-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Parsers &amp;amp; Splitters&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;（OCR）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFF2CC;strokeColor=#FF9933;" parent="1" vertex="1">
-          <mxGeometry x="320" y="682" width="100" height="79" as="geometry" />
+          <mxGeometry x="299" y="682" width="100" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="Y0FpUMWi9ijwyTFaOERX-1" value="Muti Parsers Engine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="633" width="100" height="30" as="geometry" />
+        <mxCell id="Y0FpUMWi9ijwyTFaOERX-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Muti Parsers Engine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="633" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0FpUMWi9ijwyTFaOERX-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=7;endWidth=10;fillColor=#FFCCCC;strokeColor=#FF9933;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="721" as="sourcePoint" />
+            <mxPoint x="487" y="721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0FpUMWi9ijwyTFaOERX-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Vectorization&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;（Embedding）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFF2CC;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="492" y="682" width="110" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0FpUMWi9ijwyTFaOERX-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Vetorization&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="492" y="633" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0FpUMWi9ijwyTFaOERX-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=7;endWidth=10;fillColor=#FFCCCC;strokeColor=#FF9933;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="721" as="sourcePoint" />
+            <mxPoint x="690" y="721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y0FpUMWi9ijwyTFaOERX-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Database&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;（ES、OSS、VectorDB、DB）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#FFF2CC;strokeColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="695" y="682" width="110" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Y0FpUMWi9ijwyTFaOERX-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Storage&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="633" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
