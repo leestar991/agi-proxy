@@ -148,7 +148,7 @@
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-39" parent="fwj8vmPfo1_tQUiBm-rs-30" style="rounded=0;whiteSpace=wrap;html=1;" value="authentication" vertex="1">
           <mxGeometry height="50" width="120" x="30" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="fwj8vmPfo1_tQUiBm-rs-40" parent="fwj8vmPfo1_tQUiBm-rs-30" style="rounded=0;whiteSpace=wrap;html=1;" value="3rd API integration" vertex="1">
+        <mxCell id="fwj8vmPfo1_tQUiBm-rs-40" parent="fwj8vmPfo1_tQUiBm-rs-30" style="rounded=0;whiteSpace=wrap;html=1;" value="AI ops" vertex="1">
           <mxGeometry height="50" width="120" x="30" y="510" as="geometry" />
         </mxCell>
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Agent Evaluator" vertex="1">
