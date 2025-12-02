@@ -34,11 +34,11 @@
         <mxCell id="-amzB_WvzXuxawKhLYwR-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Google Agent Develop Kit (ADK)" vertex="1">
           <mxGeometry height="40" width="408" x="510" y="930" as="geometry" />
         </mxCell>
-        <mxCell id="-amzB_WvzXuxawKhLYwR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Integration Agent Framework" vertex="1">
+        <mxCell id="-amzB_WvzXuxawKhLYwR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Integration Agent Framework (models, tools, buildin Agents)" vertex="1">
           <mxGeometry height="50" width="850" x="70" y="860" as="geometry" />
         </mxCell>
         <mxCell id="-amzB_WvzXuxawKhLYwR-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Basic Agents" vertex="1">
-          <mxGeometry height="200" width="200" x="70" y="640" as="geometry" />
+          <mxGeometry height="200" width="200" x="70" y="560" as="geometry" />
         </mxCell>
         <mxCell id="-amzB_WvzXuxawKhLYwR-15" parent="-amzB_WvzXuxawKhLYwR-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Deep Research" vertex="1">
           <mxGeometry height="30" width="162" x="18" y="30" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="-amzB_WvzXuxawKhLYwR-17" parent="-amzB_WvzXuxawKhLYwR-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Agentic Rag" vertex="1">
           <mxGeometry height="30" width="162" x="18" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fwj8vmPfo1_tQUiBm-rs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LangGraph" vertex="1">
+          <mxGeometry height="50" width="850" x="70" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
