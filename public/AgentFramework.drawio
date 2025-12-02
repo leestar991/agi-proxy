@@ -85,8 +85,8 @@
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-12" parent="fwj8vmPfo1_tQUiBm-rs-9" style="rounded=0;whiteSpace=wrap;html=1;" value="DB repository" vertex="1">
           <mxGeometry height="30" width="162" x="18" y="122" as="geometry" />
         </mxCell>
-        <mxCell id="fwj8vmPfo1_tQUiBm-rs-13" parent="fwj8vmPfo1_tQUiBm-rs-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="......" vertex="1">
-          <mxGeometry height="30" width="60" x="69" y="170" as="geometry" />
+        <mxCell id="fwj8vmPfo1_tQUiBm-rs-46" parent="fwj8vmPfo1_tQUiBm-rs-9" style="rounded=0;whiteSpace=wrap;html=1;" value="A2A protocol" vertex="1">
+          <mxGeometry height="30" width="162" x="18" y="170" as="geometry" />
         </mxCell>
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-14" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Knowledge Base" vertex="1">
           <mxGeometry height="210" width="200" x="750" y="560" as="geometry" />
