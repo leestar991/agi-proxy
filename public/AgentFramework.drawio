@@ -100,7 +100,7 @@
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-19" parent="fwj8vmPfo1_tQUiBm-rs-14" style="rounded=0;whiteSpace=wrap;html=1;" value="Relational DB" vertex="1">
           <mxGeometry height="30" width="162" x="18" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="fwj8vmPfo1_tQUiBm-rs-52" parent="fwj8vmPfo1_tQUiBm-rs-14" style="rounded=0;whiteSpace=wrap;html=1;" value="Data&amp;nbsp;" vertex="1">
+        <mxCell id="fwj8vmPfo1_tQUiBm-rs-52" parent="fwj8vmPfo1_tQUiBm-rs-14" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Lake" vertex="1">
           <mxGeometry height="30" width="162" x="19" y="170" as="geometry" />
         </mxCell>
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Agentic OpenAPI (FastApi)" vertex="1">
