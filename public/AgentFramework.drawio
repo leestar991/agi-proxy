@@ -157,8 +157,8 @@
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-51" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Data governance" vertex="1">
           <mxGeometry height="160" width="180" x="970" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="fwj8vmPfo1_tQUiBm-rs-17" parent="fwj8vmPfo1_tQUiBm-rs-51" style="rounded=0;whiteSpace=wrap;html=1;" value="Dataphin" vertex="1">
-          <mxGeometry height="45" width="120" x="30" y="65" as="geometry" />
+        <mxCell id="fwj8vmPfo1_tQUiBm-rs-17" parent="fwj8vmPfo1_tQUiBm-rs-51" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;数据中台&lt;/div&gt;Dataphin" vertex="1">
+          <mxGeometry height="55" width="120" x="30" y="65" as="geometry" />
         </mxCell>
         <mxCell id="fwj8vmPfo1_tQUiBm-rs-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Context Mgmt" vertex="1">
           <mxGeometry height="210" width="200" x="300" y="560" as="geometry" />
