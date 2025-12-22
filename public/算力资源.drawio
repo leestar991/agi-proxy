@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="LLMs gateway" vertex="1">
-          <mxGeometry height="550" width="550" x="40" y="80" as="geometry" />
+          <mxGeometry height="550" width="590" x="50" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-2" parent="Z3diFMyvYCHn4HtMcRvd-1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Dev Tools&lt;div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AI Cache&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Prompt Tamplate&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Prompt Decorator&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AI Request Transformer&lt;/div&gt;&lt;div&gt;AI Response Transformer&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AI Rag&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="150" x="20" y="40" as="geometry" />
@@ -55,12 +55,22 @@
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-20" parent="Z3diFMyvYCHn4HtMcRvd-1" style="rounded=0;whiteSpace=wrap;html=1;" value="IDE Plugins" vertex="1">
           <mxGeometry height="40" width="195" x="321" y="450" as="geometry" />
         </mxCell>
+        <UserObject label="https://camo.githubusercontent.com/b2b0d362fec3f468834c004f6c7a71886b3659d27bbc7597f5758ca5ec53f946/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69322f4f31434e3031697a6d424e58316a624854376c503359725f2121363030303030303030343536362d302d7470732d313932302d313038302e6a7067" link="https://camo.githubusercontent.com/b2b0d362fec3f468834c004f6c7a71886b3659d27bbc7597f5758ca5ec53f946/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69322f4f31434e3031697a6d424e58316a624854376c503359725f2121363030303030303030343536362d302d7470732d313932302d313038302e6a7067" id="Z3diFMyvYCHn4HtMcRvd-23">
+          <mxCell parent="Z3diFMyvYCHn4HtMcRvd-1" style="text;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="40" width="560" x="30" y="520" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="LLMs" vertex="1">
           <mxGeometry height="250" width="400" x="680" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-21" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="MCP API Gateway" vertex="1">
-          <mxGeometry height="210" width="550" x="40" y="660" as="geometry" />
+          <mxGeometry height="210" width="590" x="40" y="660" as="geometry" />
         </mxCell>
+        <UserObject label="https://camo.githubusercontent.com/3c09c1ff15d9c96b679f8287573e0f2c3856d63f6d1d12a0d167024b81762b3e/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69312f4f31434e3031777638483467316d53344d557a433151435f2121363030303030303030343935322d322d7470732d313736342d3539372e706e67" link="https://camo.githubusercontent.com/3c09c1ff15d9c96b679f8287573e0f2c3856d63f6d1d12a0d167024b81762b3e/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69312f4f31434e3031777638483467316d53344d557a433151435f2121363030303030303030343935322d322d7470732d313736342d3539372e706e67" id="Z3diFMyvYCHn4HtMcRvd-22">
+          <mxCell parent="Z3diFMyvYCHn4HtMcRvd-21" style="text;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="40" width="560" x="30" y="100" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
