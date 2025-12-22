@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="LLMs gateway" vertex="1">
-          <mxGeometry height="600" width="550" x="40" y="80" as="geometry" />
+          <mxGeometry height="550" width="550" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-2" parent="Z3diFMyvYCHn4HtMcRvd-1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI Dev Tools&lt;div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AI Cache&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Prompt Tamplate&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Prompt Decorator&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AI Request Transformer&lt;/div&gt;&lt;div&gt;AI Response Transformer&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;AI Rag&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="150" x="20" y="40" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="Z3diFMyvYCHn4HtMcRvd-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="LLMs" vertex="1">
           <mxGeometry height="250" width="400" x="680" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3diFMyvYCHn4HtMcRvd-21" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="MCP API Gateway" vertex="1">
+          <mxGeometry height="210" width="550" x="40" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
